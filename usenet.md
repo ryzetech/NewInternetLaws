@@ -107,3 +107,84 @@ Anyone who has lost a discussion because of one or more laws claims that these l
 
 ## Raimund's Law
 He who allows himself to be provoked has lost.
+
+## The Peukert Law
+Everyone wants their own law.
+**Krahl's extension:** Whoever invents any law just to find his name in the list of laws has lost.
+
+## Brügmann's Law-Law
+In every discussion about Usenet laws, there comes a time when the laws are regarded as laws that can come into force, for example. Whoever starts with that has lost and the discussion has become pointless.
+
+## Suter's Second Law
+If someone asks 'is there already a law for...', then someone else will name the law after the questioner.
+
+## Esken's Law
+Anyone who denies others a law with reference to its meaningfulness or Usenet-specificity etc. has automatically lost.
+
+## Braun's Law
+If someone tries to create a law, someone else will use existing laws to make him realise that the law already exists.
+
+## Esken's Big Question
+How is it that no law survives in its raw state, but still needs a revision of the formulation?
+
+## Lemken's Law
+Whoever writes "You loose" has automatically lost.
+
+## Brügmann's induction
+After the n-th law, there is still an n+1-th law.
+
+## Fulfilment of Brügmann's Law
+Whenever one of the laws is asked for, one of the laws is fulfilled after a short time.
+**Mickey's tightening:** The law that is asked for is always fulfilled.
+
+## Barth's Law
+From a certain state of the law discussion, people not only fulfil laws, but also write them in their postings.
+
+## Perkowsky's Law
+Anyone who claims the fulfilment of an incorrect law in the course of a discussion in order to have the discussion deemed closed has lost.
+
+## Haug's Law
+The longer a Usenet discussion lasts, the higher the probability that someone will use an inappropriate Usenet law to declare their opponent the loser. That person has then automatically lost.
+
+## Peukert's Second Law
+If someone uses Nazi or 3rd Reich comparisons with the intention of ending a thread using Godwin's Law, it immediately loses effect.
+
+## Barth's axiom
+The number of registered laws will always be finite. But there are an infinite number of laws - only most of them are not registered. So the thesis is: The laws exist - you just have to write them down and name them.
+
+## Krahnke's 1st conclusion
+Once there is a critical mass of laws, more and more trivialities will inevitably be identified as laws.
+
+## Weimer's Corollary
+After a certain length, every thread tends to become self-referential.
+
+## The Donnerhacke axiom
+If a thread shows self-references, it becomes recursive and the Usenet becomes fractal. The contributor of the self-reference has lost.
+
+## Ringeisen's Law
+Whoever accuses the other person - without responding to his argumentation - of arguing "politically correct" has lost the right to be taken seriously on this point.
+
+## Müller's Law
+Anyone who replies (exclusively) with "no reply", "no comment" or similar has lost.
+
+## Herrmann's Law
+Anyone who argues with a panellist's spelling mistakes and typos has lost.
+
+## Hartge's Law
+Anyone who tries to spelling-flame is guaranteed to make the criticised mistakes themselves.
+**Hoffmann's extension:** Those who complain the loudest about cross-posting continue to cross-post themselves without setting a follow-up to. If one has already been set, it will of course not be noticed.
+
+## Aller's Law
+The more appropriate an author feels their quote is for a signature, the less likely it is that someone will actually use it in a signature.
+
+## mico's Law
+The longer a discussion lasts, the more likely it is that someone will include an absolutely pointless expression from their discussion partner in their own signature.
+
+## Krahl's Law
+Once one of the Usenet laws has been fulfilled, the discussion is over. Whoever continues the discussion has just not realised it yet.
+
+## pi's refinement of Krahl's Law
+Anyone who postulates the end of a debate using a relevant Usenet law and then continues it anyway is shooting themselves in the foot.
+
+## rolfzwei's Law
+Whenever someone declares that they are not a Usenet dictator or that they do not want to achieve world domination, they have won and the thread is closed.
